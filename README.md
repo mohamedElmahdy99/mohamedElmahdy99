@@ -9,10 +9,9 @@
 
 ## 🛠 About Me
 
-I'm a passionate *Full Stack Developer* specializing in *Angular* for frontend and *.NET Core* for backend development.  
-I have solid experience in *API development, **database management, and **problem-solving*.
+Full Stack Developer has experience in .NET Core and Angular, specializing in modular system development using Clean Architecture. I focus on building scalable, secure, and maintainable applications. I’m passionate about improving my skills through hands-on projects and modern web development practices. A collaborative team player dedicated to solving complex challenges and contributing to impactful, business-aligned solutions, adaption for new technologies, Time Management and Presentation Skills.
 
-🔹 Strong background in *C#, Entity Framework, and LINQ*  
+🔹 Strong background in *C#, EF Core, LINQ, REST APIs, ASP.Net MVC, Angular*  
 🔹 Experienced with *SQL Server* and *modern web technologies*  
 🔹 Focused on *clean architecture, performance optimization, and scalable applications*  
 🔹 Passionate about *continuous learning and building high-quality software*
