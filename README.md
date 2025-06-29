@@ -66,12 +66,6 @@ environments.
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg?raw=true" alt="MongoDB" width="50" height="50"/>
 
-  <!-- 📊 Analytics & BI -->
-  <img src="https://cdn.jsdelivr.net/gh/microsoft/powerapps-tools@master/Assets/PowerApps.png" alt="Power Apps" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googleanalytics-colored.svg" alt="Google Analytics" width="50" height="50"/>
 
-  <!-- 🔧 Tools -->
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50"/>
 
 </p>
