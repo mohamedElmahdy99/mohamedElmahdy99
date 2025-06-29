@@ -64,7 +64,7 @@ environments.
   <!-- 🗄️ Databases -->
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg?raw=true" alt="MongoDB" width="50" height="50"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Microsoft_Power_Apps_logo.svg" alt="Power Apps" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Microsoft_Power_Apps_logo.svg/1200px-Microsoft_Power_Apps_logo.svg.png" alt="Power Apps" width="50" height="50"/>
 
   <!-- 🔧 Tools -->
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50"/>
