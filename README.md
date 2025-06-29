@@ -67,5 +67,8 @@ environments.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg?raw=true" alt="MongoDB" width="50" height="50"/>
 
  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="50" height="50"/>
 
+<!-- 🧭 CRM -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Microsoft_Dynamics_Logo.svg" alt="Microsoft Dynamics CRM" width="50" height="50"/>
 </p>
