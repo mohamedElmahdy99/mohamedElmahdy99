@@ -54,8 +54,10 @@ environments.
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="50" height="50"/>
+
 
   <!-- 🖥️ Backend & Platforms -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Core" width="50" height="50"/>
@@ -67,8 +69,7 @@ environments.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg?raw=true" alt="MongoDB" width="50" height="50"/>
 
  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="50" height="50"/>
 
-<!-- 🧭 CRM -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Microsoft_Dynamics_Logo.svg" alt="Microsoft Dynamics CRM" width="50" height="50"/>
+
+
 </p>
